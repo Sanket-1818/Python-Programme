@@ -1,5 +1,4 @@
-# 5.Create a class `Movie` with methods to set and get the movie's title and rating. Include a method to
-# display the movie details.
+
 class Movie:
     def info(self):
         Movie_1='Jana Gana Mana'
