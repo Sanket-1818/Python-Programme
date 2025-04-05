@@ -4,6 +4,7 @@ class Circle:
     def circumference(self):
         r=1
         c=2*3.142*r
+        
         print(c)
 m1=Circle
 m1.circumference(0)
